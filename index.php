@@ -8,9 +8,9 @@ $nota = 1 + 2;
 
 // $nome_sobrenome = "Bianca Alencar" ."Goncalves";
 
-$nome_sobrenome = "Bianca Alencar" ." Goncalves"; //ponto serve para concatenar
+$nome_sobrenome = "Bianca" ." Alencar" ." Goncalves"; //ponto serve para concatenar
 
-echo '<br><br> Nome: '.$nome_sobrenome;
+echo '<br><br> Nome: '.$nome_sobrenome; //ponto mais a variavel
 
 
 ?> 
